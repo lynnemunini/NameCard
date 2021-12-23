@@ -1,2 +1,3 @@
 # NameCard
-![name](https://user-images.githubusercontent.com/63019595/147076760-3de62319-4784-41ec-a241-6033c053c770.png)
+![name](https://user-images.githubusercontent.com/63019595/147086098-110b0139-4c38-4262-bf6b-aaaaee3e9104.png)
+
